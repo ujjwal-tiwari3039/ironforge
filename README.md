@@ -1,5 +1,9 @@
 # 🏋️ IronForge Gym — Web Design Demo
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-f5c518?style=for-the-badge&logo=netlify&logoColor=black)](https://ironforge3039.netlify.app/)
+
+> 🔗 **Live Site:** [https://ironforge3039.netlify.app/](https://ironforge3039.netlify.app/)
+
 A fully responsive, single-page gym website built as a **web design demo project** to showcase modern frontend techniques including animations, layout design, interactive components, and visual aesthetics.
 
 ---
@@ -68,6 +72,9 @@ ironforge-gym/
 ---
 
 ## 🚀 Getting Started
+
+### 🌐 View Live
+**[https://ironforge3039.netlify.app/](https://ironforge3039.netlify.app/)** — Deployed on Netlify
 
 ### Run Locally
 1. Clone or download the repository
@@ -156,3 +163,11 @@ Built as a **web design portfolio/demo project** to practice and showcase:
 ## 📄 License
 
 This is a demo project made for learning and portfolio purposes. All images are sourced from [Unsplash](https://unsplash.com) (free to use). The gym brand "IronForge" is entirely fictional.
+
+---
+
+## 🌍 Deployment
+
+This site is live and hosted on **Netlify**:
+
+**[https://ironforge3039.netlify.app/](https://ironforge3039.netlify.app/)**
